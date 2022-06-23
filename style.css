@@ -383,7 +383,7 @@ height: 100vh;
 }
 
 .card-img-wrapper{
-    width: 100%;
+    width: 95%;
     height: 100%;
     background-color: #262626;
     border-radius: .5rem;
@@ -447,7 +447,7 @@ height: 100vh;
     font-family: var(--font-action);
     font-size: 1rem;
     box-shadow: 0 .1rem .8rem rgba(0, 0, 0, .4);
-    margin-top: 1.5rem;
+    margin-top: .5rem;
 }
 
 .card-info button{
